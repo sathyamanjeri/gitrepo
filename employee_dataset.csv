@@ -1,0 +1,11 @@
+emp_id,emp_name,manager_id,department
+101,Arun,,Management
+102,Priya,101,HR
+103,Ravi,101,Sales
+104,Meena,103,Sales
+105,Karthik,103,Sales
+106,Divya,102,HR
+107,Suresh,103,Sales
+108,Anitha,102,HR
+109,Vijay,101,Finance
+110,Lakshmi,109,Finance
